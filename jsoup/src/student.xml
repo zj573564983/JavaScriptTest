@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<students>
+    <student number="jsoup1">
+        <name id="test1">zj</name>
+        <age>18</age>
+        <sex>male</sex>
+    </student>
+
+    <student number="jsoup2">
+    <name>zhangjie</name>
+    <age>18</age>
+    <sex>male</sex>
+</student>
+</students>
